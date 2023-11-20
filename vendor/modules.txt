@@ -1,0 +1,13 @@
+# github.com/ggerganov/whisper.cpp/bindings/go v0.0.0-20231119104322-7516d9c16da9
+## explicit; go 1.19
+github.com/ggerganov/whisper.cpp/bindings/go
+github.com/ggerganov/whisper.cpp/bindings/go/pkg/whisper
+# github.com/go-audio/audio v1.0.0
+## explicit
+github.com/go-audio/audio
+# github.com/go-audio/riff v1.0.0
+## explicit; go 1.12
+github.com/go-audio/riff
+# github.com/go-audio/wav v1.1.0
+## explicit; go 1.13
+github.com/go-audio/wav
